@@ -15,7 +15,7 @@ get pull https://github.com/jtkhair/ProjectData
 If using vs code;
 
 1. Go to explorer and choose "Clone Repository"
-2. Paste the Github repositiory link: https://github.com/jtkhair/ProjectData to clone from GitHub
+2. Paste the GitHub repositiory link: https://github.com/jtkhair/ProjectData to clone from GitHub
 3. Choose you local directory for the files location
 4. If already cloned, go to Terminal > New Terminal and run this command to run git pull
 
