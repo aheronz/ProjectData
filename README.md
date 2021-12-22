@@ -1,5 +1,8 @@
 # Data Science Assignment
 
+### pyenv-win ver.2.64.11
+### python 3.9.6
+
 ## Getting started
 
 1. Clone repo by running this command in the terminal
