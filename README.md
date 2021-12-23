@@ -1,7 +1,9 @@
 # Data Science Assignment
 
-### pyenv-win ver.2.64.11
-### python 3.9.6
+> Windows: pyenv-win ver.2.64.11
+> macOS : pyenv
+> ubuntu: pyenv 2.2.3
+> python 3.9.6
 
 ## Getting started
 
@@ -25,3 +27,19 @@ If using vs code;
 ```
 get pull https://github.com/jtkhair/ProjectData
 ```
+5. Run datascience.ipynb and make sure to select python interpreter
+
+## Windows
+
+1. Start terminal and activate pyenv-win e.g. "py39"
+
+```
+.\py39\Scripts\activate
+```
+
+2. 
+
+## macOS
+
+TBD
+
